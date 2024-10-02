@@ -1,5 +1,5 @@
 #logo{
-
+   margin-left: 20em;
 }
 
 #h1{
@@ -27,10 +27,15 @@
     color: #41f7ba; 
 
 }
+
+#sally{
+    color:#8a8a8ae7;
+    text-align: center;
+}
 .section{
     height: 500px; 
     width: 60%; 
-    margin-left: 7em; 
+    margin-left: 17em; 
     margin-right: auto;
     margin-bottom:11em;
  }
