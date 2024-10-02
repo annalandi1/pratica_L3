@@ -1,0 +1,51 @@
+#logo{
+
+}
+
+#h1{
+    background-color: #fae06e9e;
+    border-top:0.3em solid#fedf44;sss
+    padding:2em;
+    line-height:4em;
+    text-align: center;
+    font-size: 0.7em;
+}
+
+#focaccia{
+    text-align: center;
+
+}
+
+
+.featured{
+    color:#810000;
+    border-left: 0,3em solid #f1a90e;
+    }
+
+
+.hr{
+    color: #41f7ba; 
+
+}
+.section{
+    height: 500px; 
+    width: 60%; 
+    margin-left: 7em; 
+    margin-right: auto;
+    margin-bottom:11em;
+ }
+.section2{
+   height: 500px; 
+   width: 60%; 
+   margin-left: auto; 
+   margin-right: auto;
+}
+
+p.sottotitoli{
+    font-size: 1.50em;
+    
+}
+
+
+
+
