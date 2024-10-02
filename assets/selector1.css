@@ -32,6 +32,9 @@
     color:#8a8a8ae7;
     text-align: center;
 }
+.h4{
+    font-size: 1,5em;
+}
 .section{
     height: 500px; 
     width: 60%; 
@@ -44,10 +47,11 @@
    width: 60%; 
    margin-left: auto; 
    margin-right: auto;
+   margin-bottom:4em;
 }
 
 p.sottotitoli{
-    font-size: 1.50em;
+    font-size: 1,5em;
     
 }
 
